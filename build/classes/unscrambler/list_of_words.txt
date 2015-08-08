@@ -1,0 +1,6 @@
+astronaut
+dog
+cat
+farmer
+eat
+apple
